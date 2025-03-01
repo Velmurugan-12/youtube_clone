@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { formatPublishTime, formatViewCount } from '../../utils/helper'
 import { FaThumbsDown, FaThumbsUp } from 'react-icons/fa'
 
