@@ -1,7 +1,6 @@
 import React, {useContext,createContext,useEffect,useState} from "react";
 import { fetchApiForYoutubeData } from "../utils/FetchApi";
 
-
 export const Context = createContext();
 
 export const AppContext = ({children}) => {
