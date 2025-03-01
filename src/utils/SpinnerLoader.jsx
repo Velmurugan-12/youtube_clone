@@ -1,4 +1,4 @@
-import React, { useState, useEffect} from 'react'
+import React, { useState, useEffect} from 'react';
 
 const SpinnerLoader = () => {
   const [currentProgress, setCurrentProgress] = useState(0)
