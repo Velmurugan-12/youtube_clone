@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react';
 import { useAppContext } from '../../useContextHook/useContextApi';
 import { fetchApiForYoutubeData } from '../../utils/FetchApi';
 import { useTheme } from '../../useContextHook/useTheme';
